@@ -1,5 +1,7 @@
 # The Kochi Open Mobility Network
 
+![](https://openkochi.net/wp-content/uploads/2021/03/home-group-3-A75DAE04-DDCE-4EBC-846E-7AD0A9C9AED93x.png)
+
 <h3>World's first open mobility network
 led by the people of Kochi
 to digitize the mobility sector.</h3>
